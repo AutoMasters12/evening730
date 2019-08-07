@@ -9,6 +9,8 @@ public class TestSuite1 {
 	@Test
 	public void test() {
 		System.out.println("test1");
+		System.out.println("test1");
+		System.out.println("test1");
 	}
 
 }
