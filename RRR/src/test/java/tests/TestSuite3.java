@@ -13,6 +13,8 @@ public class TestSuite3 {
 		System.out.println("test1");
 		System.out.println("test1");
 		System.out.println("test1");
+		System.out.println("test1");
+		System.out.println("test1");
 	}
 
 }
